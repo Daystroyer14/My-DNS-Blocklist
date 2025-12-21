@@ -1,0 +1,32 @@
+# My Custom DNS allowlist
+# Last updated: 2025-12-20
+# Description: Allows domains that might be blocked by other blocklists
+# NOTE: This is built for AdGuard Home
+# Homepage: github.com/yourusername/yourrepo
+
+# === Google Services (needed for Android/Chrome) ===
+@@||connectivitycheck.gstatic.com^
+@@||www.gstatic.com^
+@@||clients6.google.com^
+@@||0.docs.google.com^
+@@||accounts.google.com^
+@@||ssl.gstatic.com^
+@@||static.doubleclick.net^
+@@||www.googleapis.com^
+@@||android.googleapis.com^
+
+# === YouTube (needed for video playback) ===
+@@||s.youtube.com^
+@@||video-stats.l.google.com^
+
+# === Hulu (needed for streaming) ===
+@@||hulu.com^
+@@||secure.hulu.com^
+@@||log.hulu.com^
+@@||cdns.gigya.com^
+@@||hulu-a.akamaihd.net^
+@@||assets.huluim.com^
+@@||ads.hulu.com^
+@@||ads-e-darwin.hulu.com^
+@@||ads-service.hulu.com^
+@@||vortex.hulu.com^
