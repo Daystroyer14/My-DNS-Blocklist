@@ -40,12 +40,6 @@
 @@||api.mojang.com^
 @@||authserver.mojang.com^
 
-# === Ring ===
-@@||ring.com^
-@@||*.ring.com^
-@@||amazonaws.com^
-@@||*.amazonaws.com^
-
 # === Other Random Additions ===
 @@||nyaa.si^
 @@||fitgirl-repacks.site^
